@@ -1,0 +1,150 @@
+/* 
+  Color Palettes: lime
+  CSS by: Alan Museljic
+  Credit Palettes Material Design Colors
+*/
+
+/* -- lime fill colors -- */
+
+.background--lime{
+  background: #cddc39;
+}
+.background--lime-50{
+  background: #f9fbe7;
+}
+.background--lime-100{
+  background: #f0f4c3;
+}
+.background--lime-200{
+  background: #e6ee9c;
+}
+.background--lime-300{
+  background: #dce775;
+}
+.background--lime-400{
+  background: #d4e157;
+}
+.background--lime-500{
+  background: #cddc39;
+}
+.background--lime-600{
+  background: #c0ca33;
+}
+.background--lime-700{
+  background: #afb42b;
+}
+.background--lime-800{
+  background: #9e9d24;
+}
+.background--lime-900{
+  background: #827717;
+}
+.background--lime-a100{
+  background: #f4ff81;
+}
+.background--lime-a200{
+  background: #eeff41;
+}
+.background--lime-a400{
+  background:  #c6ff00;
+}
+.background--lime-a700{
+  background: #aeea00;
+}
+
+/* -- lime text / icon colors -- */
+
+.color--lime{
+  color: #cddc39;
+}
+.color--lime-50{
+  color: #f9fbe7;
+}
+.color--lime-100{
+  color: #f0f4c3;
+}
+.color--lime-200{
+  color: #e6ee9c;
+}
+.color--lime-300{
+  color: #dce775;
+}
+.color--lime-400{
+  color: #d4e157;
+}
+.color--lime-500{
+  color: #cddc39;
+}
+.color--lime-600{
+  color: #c0ca33;
+}
+.color--lime-700{
+  color: #afb42b;
+}
+.color--lime-800{
+  color: #9e9d24;
+}
+.color--lime-900{
+  color: #827717;
+}
+.color--lime-a100{
+  color: #f4ff81;
+}
+.color--lime-a200{
+  color: #eeff41;
+}
+.color--lime-a400{
+  color:  #c6ff00;
+}
+.color--lime-a700{
+  color: #aeea00;
+}
+
+
+/* -- lime border colors  -- */
+
+.border-color--lime{
+  border-color: #cddc39;
+}
+.border-color--lime-50{
+  border-color: #f9fbe7;
+}
+.border-color--lime-100{
+  border-color: #f0f4c3;
+}
+.border-color--lime-200{
+  border-color: #e6ee9c;
+}
+.border-color--lime-300{
+  border-color: #dce775;
+}
+.border-color--lime-400{
+  border-color: #d4e157;
+}
+.border-color--lime-500{
+  border-color: #cddc39;
+}
+.border-color--lime-600{
+  border-color: #c0ca33;
+}
+.border-color--lime-700{
+  border-color: #afb42b;
+}
+.border-color--lime-800{
+  border-color: #9e9d24;
+}
+.border-color--lime-900{
+  border-color: #827717;
+}
+.border-color--lime-a100{
+  border-color: #f4ff81;
+}
+.border-color--lime-a200{
+  border-color: #eeff41;
+}
+.border-color--lime-a400{
+  border-color:  #c6ff00;
+}
+.border-color--lime-a700{
+  border-color: #aeea00;
+}
