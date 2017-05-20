@@ -1,0 +1,113 @@
+/* 
+  Color Palettes: brown
+  CSS by: Alan Museljic
+  Credit Color Palettes Material Design Colors
+*/
+
+/* -- brown fill colors -- */
+
+.background--brown{
+  background: #795548;
+}
+.background--brown-50{
+  background: #efebe9;
+}
+.background--brown-100{
+  background: #d7ccc8;
+}
+.background--brown-200{
+  background: #bcaaa4;
+}
+.background--brown-300{
+  background: #a1887f;
+}
+.background--brown-400{
+  background: #8d6e63;
+}
+.background--brown-500{
+  background: #795548;
+}
+.background--brown-600{
+  background: #6d4c41;
+}
+.background--brown-700{
+  background: #5d4037;
+}
+.background--brown-800{
+  background: #4e342e;
+}
+.background--brown-900{
+  background: #3e2723;
+}
+
+/* -- brown text / icon colors -- */
+
+.color--brown{
+  color: #795548;
+}
+.color--brown-50{
+  color: #efebe9;
+}
+.color--brown-100{
+  color: #d7ccc8;
+}
+.color--brown-200{
+  color: #bcaaa4;
+}
+.color--brown-300{
+  color: #a1887f;
+}
+.color--brown-400{
+  color: #8d6e63;
+}
+.color--brown-500{
+  color: #795548;
+}
+.color--brown-600{
+  color: #6d4c41;
+}
+.color--brown-700{
+  color: #5d4037;
+}
+.color--brown-800{
+  color: #4e342e;
+}
+.color--brown-900{
+  color: #3e2723;
+}
+
+/* -- brown border colors -- */
+
+.border-color--brown{
+  border-color: #795548;
+}
+.border-color--brown-50{
+  border-color: #efebe9;
+}
+.border-color--brown-100{
+  border-color: #d7ccc8;
+}
+.border-color--brown-200{
+  border-color: #bcaaa4;
+}
+.border-color--brown-300{
+  border-color: #a1887f;
+}
+.border-color--brown-400{
+  border-color: #8d6e63;
+}
+.border-color--brown-500{
+  border-color: #795548;
+}
+.border-color--brown-600{
+  border-color: #6d4c41;
+}
+.border-color--brown-700{
+  border-color: #5d4037;
+}
+.border-color--brown-800{
+  border-color: #4e342e;
+}
+.border-color--brown-900{
+  border-color: #3e2723;
+}

@@ -1,0 +1,150 @@
+/* 
+  Color Palettes: deep-orange
+  CSS by: Alan Museljic
+  Credit Color Palettes Material Design Colors
+*/
+
+/* -- deep-orange fill colors -- */
+
+.background--deep-orange{
+  background: #ff5722;
+}
+.background--deep-orange-50{
+  background: #fbe9e7;
+}
+.background--deep-orange-100{
+  background: #ffccbc;
+}
+.background--deep-orange-200{
+  background: #ffab91;
+}
+.background--deep-orange-300{
+  background: #ff8a65;
+}
+.background--deep-orange-400{
+  background: #ff7043;
+}
+.background--deep-orange-500{
+  background: #ff5722;
+}
+.background--deep-orange-600{
+  background: #f4511e;
+}
+.background--deep-orange-700{
+  background: #e64a19;
+}
+.background--deep-orange-800{
+  background: #d84315;
+}
+.background--deep-orange-900{
+  background: #bf360c;
+}
+.background--deep-orange-a100{
+  background: #ff9e80;
+}
+.background--deep-orange-a200{
+  background: #ff6e40;
+}
+.background--deep-orange-a400{
+  background:  #ff3d00;
+}
+.background--deep-orange-a700{
+  background: #dd2c00;
+}
+
+/* -- deep-orange text / icon colors -- */
+
+.color--deep-orange{
+  color: #ff5722;
+}
+.color--deep-orange-50{
+  color: #fbe9e7;
+}
+.color--deep-orange-100{
+  color: #ffccbc;
+}
+.color--deep-orange-200{
+  color: #ffab91;
+}
+.color--deep-orange-300{
+  color: #ff8a65;
+}
+.color--deep-orange-400{
+  color: #ff7043;
+}
+.color--deep-orange-500{
+  color: #ff5722;
+}
+.color--deep-orange-600{
+  color: #f4511e;
+}
+.color--deep-orange-700{
+  color: #e64a19;
+}
+.color--deep-orange-800{
+  color: #d84315;
+}
+.color--deep-orange-900{
+  color: #bf360c;
+}
+.color--deep-orange-a100{
+  color: #ff9e80;
+}
+.color--deep-orange-a200{
+  color: #ff6e40;
+}
+.color--deep-orange-a400{
+  color:  #ff3d00;
+}
+.color--deep-orange-a700{
+  color: #dd2c00;
+}
+
+
+/* -- deep-orange border colors -- */
+
+.border-color--deep-orange{
+  border-color: #ff5722;
+}
+.border-color--deep-orange-50{
+  border-color: #fbe9e7;
+}
+.border-color--deep-orange-100{
+  border-color: #ffccbc;
+}
+.border-color--deep-orange-200{
+  border-color: #ffab91;
+}
+.border-color--deep-orange-300{
+  border-color: #ff8a65;
+}
+.border-color--deep-orange-400{
+  border-color: #ff7043;
+}
+.border-color--deep-orange-500{
+  border-color: #ff5722;
+}
+.border-color--deep-orange-600{
+  border-color: #f4511e;
+}
+.border-color--deep-orange-700{
+  border-color: #e64a19;
+}
+.border-color--deep-orange-800{
+  border-color: #d84315;
+}
+.border-color--deep-orange-900{
+  border-color: #bf360c;
+}
+.border-color--deep-orange-a100{
+  border-color: #ff9e80;
+}
+.border-color--deep-orange-a200{
+  border-color: #ff6e40;
+}
+.border-color--deep-orange-a400{
+  border-color:  #ff3d00;
+}
+.border-color--deep-orange-a700{
+  border-color: #dd2c00;
+}

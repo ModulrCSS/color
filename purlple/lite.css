@@ -1,0 +1,150 @@
+/* 
+  Color Palettes: purple
+  CSS by: Alan Museljic
+  Credit Color Palettes Material Design Colors
+*/
+
+/* -- purple fill colors -- */
+
+.background--purple{
+  background: #9c27b0;
+}
+.background--purple-50{
+  background: #f3e5f5;
+}
+.background--purple-100{
+  background: #e1bee7;
+}
+.background--purple-200{
+  background: #ce93d8;
+}
+.background--purple-300{
+  background: #ba68c8;
+}
+.background--purple-400{
+  background: #ab47bc;
+}
+.background--purple-500{
+  background: #9c27b0;
+}
+.background--purple-600{
+  background: #8e24aa;
+}
+.background--purple-700{
+  background: #7b1fa2;
+}
+.background--purple-800{
+  background: #6a1b9a;
+}
+.background--purple-900{
+  background: #4a148c;
+}
+.background--purple-a100{
+  background: #ea80fc;
+}
+.background--purple-a200{
+  background: #e040fb;
+}
+.background--purple-a400{
+  background:  #d500f9;
+}
+.background--purple-a700{
+  background: #aa00ff;
+}
+
+/* -- purple text / icon colors -- */
+
+.color--purple{
+  color: #9c27b0;
+}
+.color--purple-50{
+  color: #f3e5f5;
+}
+.color--purple-100{
+  color: #e1bee7;
+}
+.color--purple-200{
+  color: #ce93d8;
+}
+.color--purple-300{
+  color: #ba68c8;
+}
+.color--purple-400{
+  color: #ab47bc;
+}
+.color--purple-500{
+  color: #9c27b0;
+}
+.color--purple-600{
+  color: #8e24aa;
+}
+.color--purple-700{
+  color: #7b1fa2;
+}
+.color--purple-800{
+  color: #6a1b9a;
+}
+.color--purple-900{
+  color: #4a148c;
+}
+.color--purple-a100{
+  color: #ea80fc;
+}
+.color--purple-a200{
+  color: #e040fb;
+}
+.color--purple-a400{
+  color:  #d500f9;
+}
+.color--purple-a700{
+  color: #aa00ff;
+}
+
+
+/* -- purple border colors -- */
+
+.border-color--purple{
+  border-color: #9c27b0;
+}
+.border-color--purple-50{
+  border-color: #f3e5f5;
+}
+.border-color--purple-100{
+  border-color: #e1bee7;
+}
+.border-color--purple-200{
+  border-color: #ce93d8;
+}
+.border-color--purple-300{
+  border-color: #ba68c8;
+}
+.border-color--purple-400{
+  border-color: #ab47bc;
+}
+.border-color--purple-500{
+  border-color: #9c27b0;
+}
+.border-color--purple-600{
+  border-color: #8e24aa;
+}
+.border-color--purple-700{
+  border-color: #7b1fa2;
+}
+.border-color--purple-800{
+  border-color: #6a1b9a;
+}
+.border-color--purple-900{
+  border-color: #4a148c;
+}
+.border-color--purple-a100{
+  border-color: #ea80fc;
+}
+.border-color--purple-a200{
+  border-color: #e040fb;
+}
+.border-color--purple-a400{
+  border-color:  #d500f9;
+}
+.border-color--purple-a700{
+  border-color: #aa00ff;
+}

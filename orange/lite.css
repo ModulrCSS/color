@@ -1,0 +1,150 @@
+/* 
+  Color Palettes: orange
+  CSS by: Alan Museljic
+  Credit Color Palettes Material Design Colors
+*/
+
+/* -- orange fill colors -- */
+
+.background--orange{
+  background: #ff9800;
+}
+.background--orange-50{
+  background: #fff3e0;
+}
+.background--orange-100{
+  background: #ffe0b2;
+}
+.background--orange-200{
+  background: #ffcc80;
+}
+.background--orange-300{
+  background: #ffb74d;
+}
+.background--orange-400{
+  background: #ffa726;
+}
+.background--orange-500{
+  background: #ff9800;
+}
+.background--orange-600{
+  background: #fb8c00;
+}
+.background--orange-700{
+  background: #f57c00;
+}
+.background--orange-800{
+  background: #ef6c00;
+}
+.background--orange-900{
+  background: #e65100;
+}
+.background--orange-a100{
+  background: #ffd180;
+}
+.background--orange-a200{
+  background: #ffab40;
+}
+.background--orange-a400{
+  background:  #ff9100;
+}
+.background--orange-a700{
+  background: #ff6d00;
+}
+
+/* -- orange text / icon colors -- */
+
+.color--orange{
+  color: #ff9800;
+}
+.color--orange-50{
+  color: #fff3e0;
+}
+.color--orange-100{
+  color: #ffe0b2;
+}
+.color--orange-200{
+  color: #ffcc80;
+}
+.color--orange-300{
+  color: #ffb74d;
+}
+.color--orange-400{
+  color: #ffa726;
+}
+.color--orange-500{
+  color: #ff9800;
+}
+.color--orange-600{
+  color: #fb8c00;
+}
+.color--orange-700{
+  color: #f57c00;
+}
+.color--orange-800{
+  color: #ef6c00;
+}
+.color--orange-900{
+  color: #e65100;
+}
+.color--orange-a100{
+  color: #ffd180;
+}
+.color--orange-a200{
+  color: #ffab40;
+}
+.color--orange-a400{
+  color:  #ff9100;
+}
+.color--orange-a700{
+  color: #ff6d00;
+}
+
+
+/* -- orange border colors -- */
+
+.border-color--orange{
+  border-color: #ff9800;
+}
+.border-color--orange-50{
+  border-color: #fff3e0;
+}
+.border-color--orange-100{
+  border-color: #ffe0b2;
+}
+.border-color--orange-200{
+  border-color: #ffcc80;
+}
+.border-color--orange-300{
+  border-color: #ffb74d;
+}
+.border-color--orange-400{
+  border-color: #ffa726;
+}
+.border-color--orange-500{
+  border-color: #ff9800;
+}
+.border-color--orange-600{
+  border-color: #fb8c00;
+}
+.border-color--orange-700{
+  border-color: #f57c00;
+}
+.border-color--orange-800{
+  border-color: #ef6c00;
+}
+.border-color--orange-900{
+  border-color: #e65100;
+}
+.border-color--orange-a100{
+  border-color: #ffd180;
+}
+.border-color--orange-a200{
+  border-color: #ffab40;
+}
+.border-color--orange-a400{
+  border-color:  #ff9100;
+}
+.border-color--orange-a700{
+  border-color: #ff6d00;
+}

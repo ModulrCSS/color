@@ -1,0 +1,20 @@
+
+[mod-background~="red"]{
+  background: red;
+}
+[mod-background~="purple"],
+[mod-background~="on-focus-purple"]:focus,
+[mod-background~="on-hover-purple"]:hover{
+  background: rebeccapurple;
+}
+[mod-background~="orange"],
+[mod-background~="on-focus-orange"]:focus,
+[mod-background~="on-hover-orange"]:hover{
+  background: orange;
+}
+
+[mod-text~="21"],
+[mod-text~="on-focus-21"]:focus,
+[mod-text~="on-hover-21"]:hover{
+  font-size: 21px;
+}

@@ -1,0 +1,149 @@
+/* 
+  Color Palettes: blue
+  CSS by: Alan Museljic
+  Credit Color Palettes Material Design Colors
+*/
+/* -- blue fill colors -- */
+
+.background--blue{
+  background: #2196f3;
+}
+.background--blue-50{
+  background: #2196f3;
+}
+.background--blue-100{
+  background: #bbdefb;
+}
+.background--blue-200{
+  background: #90caf9;
+}
+.background--blue-300{
+  background: #64b5f6;
+}
+.background--blue-400{
+  background: #42a5f5;
+}
+.background--blue-500{
+  background: #2196f3;
+}
+.background--blue-600{
+  background: #1e88e5;
+}
+.background--blue-700{
+  background: #1976d2;
+}
+.background--blue-800{
+  background: #1565c0;
+}
+.background--blue-900{
+  background: #0d47a1;
+}
+.background--blue-a100{
+  background: #82b1ff;
+}
+.background--blue-a200{
+  background: #448aff;
+}
+.background--blue-a400{
+  background:  #2979ff;
+}
+.background--blue-a700{
+  background: #2962ff;
+}
+
+/* -- blue text / icon colors -- */
+
+.color--blue{
+  color: #2196f3;
+}
+.color--blue-50{
+  color: #e3f2fd;
+}
+.color--blue-100{
+  color: #bbdefb;
+}
+.color--blue-200{
+  color: #90caf9;
+}
+.color--blue-300{
+  color: #64b5f6;
+}
+.color--blue-400{
+  color: #42a5f5;
+}
+.color--blue-500{
+  color: #2196f3;
+}
+.color--blue-600{
+  color: #1e88e5;
+}
+.color--blue-700{
+  color: #1976d2;
+}
+.color--blue-800{
+  color: #1565c0;
+}
+.color--blue-900{
+  color: #0d47a1;
+}
+.color--blue-a100{
+  color: #82b1ff;
+}
+.color--blue-a200{
+  color: #448aff;
+}
+.color--blue-a400{
+  color:  #2979ff;
+}
+.color--blue-a700{
+  color: #2962ff;
+}
+
+
+/* -- blue border colors -- */
+
+.border-color--blue{
+  border-color: #2196f3;
+}
+.border-color--blue-50{
+  border-color: #e3f2fd;
+}
+.border-color--blue-100{
+  border-color: #bbdefb;
+}
+.border-color--blue-200{
+  border-color: #90caf9;
+}
+.border-color--blue-300{
+  border-color: #64b5f6;
+}
+.border-color--blue-400{
+  border-color: #42a5f5;
+}
+.border-color--blue-500{
+  border-color: #2196f3;
+}
+.border-color--blue-600{
+  border-color: #1e88e5;
+}
+.border-color--blue-700{
+  border-color: #1976d2;
+}
+.border-color--blue-800{
+  border-color: #1565c0;
+}
+.border-color--blue-900{
+  border-color: #0d47a1;
+}
+.border-color--blue-a100{
+  border-color: #82b1ff;
+}
+.border-color--blue-a200{
+  border-color: #448aff;
+}
+.border-color--blue-a400{
+  border-color:  #2979ff;
+}
+.border-color--blue-a700{
+  border-color: #2962ff;
+}

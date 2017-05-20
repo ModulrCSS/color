@@ -1,0 +1,150 @@
+/* 
+  Color Palettes: amber
+  CSS by: Alan Museljic
+  Credit Color Palettes Material Design Colors
+*/
+
+/* -- amber fill colors -- */
+
+.background--amber{
+  background: #ffc107;
+}
+.background--amber-50{
+  background: #fff8e1;
+}
+.background--amber-100{
+  background: #ffecb3;
+}
+.background--amber-200{
+  background: #ffe082;
+}
+.background--amber-300{
+  background: #ffd54f;
+}
+.background--amber-400{
+  background: #ffca28;
+}
+.background--amber-500{
+  background: #ffc107;
+}
+.background--amber-600{
+  background: #ffb300;
+}
+.background--amber-700{
+  background: #ffa000;
+}
+.background--amber-800{
+  background: #ff8f00;
+}
+.background--amber-900{
+  background: #ff6f00;
+}
+.background--amber-a100{
+  background: #ffe57f;
+}
+.background--amber-a200{
+  background: #ffd740;
+}
+.background--amber-a400{
+  background:  #ffc400;
+}
+.background--amber-a700{
+  background: #ffab00;
+}
+
+/* -- amber text / icon colors -- */
+
+.color--amber{
+  color: #ffc107;
+}
+.color--amber-50{
+  color: #fff8e1;
+}
+.color--amber-100{
+  color: #ffecb3;
+}
+.color--amber-200{
+  color: #ffe082;
+}
+.color--amber-300{
+  color: #ffd54f;
+}
+.color--amber-400{
+  color: #ffca28;
+}
+.color--amber-500{
+  color: #ffc107;
+}
+.color--amber-600{
+  color: #ffb300;
+}
+.color--amber-700{
+  color: #ffa000;
+}
+.color--amber-800{
+  color: #ff8f00;
+}
+.color--amber-900{
+  color: #ff6f00;
+}
+.color--amber-a100{
+  color: #ffe57f;
+}
+.color--amber-a200{
+  color: #ffd740;
+}
+.color--amber-a400{
+  color:  #ffc400;
+}
+.color--amber-a700{
+  color: #ffab00;
+}
+
+
+/* -- amber border colors -- */
+
+.border-color--amber{
+  border-color: #ffc107;
+}
+.border-color--amber-50{
+  border-color: #fff8e1;
+}
+.border-color--amber-100{
+  border-color: #ffecb3;
+}
+.border-color--amber-200{
+  border-color: #ffe082;
+}
+.border-color--amber-300{
+  border-color: #ffd54f;
+}
+.border-color--amber-400{
+  border-color: #ffca28;
+}
+.border-color--amber-500{
+  border-color: #ffc107;
+}
+.border-color--amber-600{
+  border-color: #ffb300;
+}
+.border-color--amber-700{
+  border-color: #ffa000;
+}
+.border-color--amber-800{
+  border-color: #ff8f00;
+}
+.border-color--amber-900{
+  border-color: #ff6f00;
+}
+.border-color--amber-a100{
+  border-color: #ffe57f;
+}
+.border-color--amber-a200{
+  border-color: #ffd740;
+}
+.border-color--amber-a400{
+  border-color:  #ffc400;
+}
+.border-color--amber-a700{
+  border-color: #ffab00;
+}

@@ -1,0 +1,375 @@
+/* 
+  Color Palettes: cyan - extended 
+  CSS by: Alan Museljic
+  Credit Color Palettes Material Design Colors
+*/
+
+
+/* -- cyan fill colors -- */
+
+[mod-background~="cyan"],
+[mod-each-child~="background-cyan"] > [mod-child],
+[mod-background~="on-hover-cyan"]:hover,
+[mod-background~="on-focus-cyan"]:focus,
+[mod-each-child~="on-hover-background-cyan"] > [mod-child]:hover,
+[mod-each-child~="on-focus-background-cyan"] > [mod-child]:focus{
+  background: #00bcd4;
+}
+[mod-background~="cyan-50"],
+[mod-each-child~="background-cyan-50"] > [mod-child],
+[mod-background~="on-hover-cyan-50"]:hover,
+[mod-background~="on-focus-cyan-50"]:focus,
+[mod-each-child~="on-hover-background-cyan-50"] > [mod-child]:hover,
+[mod-each-child~="on-focus-background-cyan-50"] > [mod-child]:focus{
+  background: #e0f7fa;
+}
+[mod-background~="cyan-100"],
+[mod-each-child~="background-cyan-100"] > [mod-child],
+[mod-background~="on-hover-cyan-100"]:hover,
+[mod-background~="on-focus-cyan-100"]:focus,
+[mod-each-child~="on-hover-background-cyan-100"] > [mod-child]:hover,
+[mod-each-child~="on-focus-background-cyan-100"] > [mod-child]:focus{
+  background: #b2ebf2;
+}
+[mod-background~="cyan-200"],
+[mod-each-child~="background-cyan-200"] > [mod-child],
+[mod-background~="on-hover-cyan-200"]:hover,
+[mod-background~="on-focus-cyan-200"]:focus,
+[mod-each-child~="on-hover-background-cyan-200"] > [mod-child]:hover,
+[mod-each-child~="on-focus-background-cyan-200"] > [mod-child]:focus{
+  background: #80deea;
+}
+[mod-background~="cyan-300"],
+[mod-each-child~="background-cyan-300"] > [mod-child],
+[mod-background~="on-hover-cyan-300"]:hover,
+[mod-background~="on-focus-cyan-300"]:focus,
+[mod-each-child~="on-hover-background-cyan-300"] > [mod-child]:hover,
+[mod-each-child~="on-focus-background-cyan-300"] > [mod-child]:focus{
+  background: #4dd0e1;
+}
+[mod-background~="cyan-400"],
+[mod-each-child~="background-cyan-400"] > [mod-child],
+[mod-background~="on-hover-cyan-400"]:hover,
+[mod-background~="on-focus-cyan-400"]:focus,
+[mod-each-child~="on-hover-background-cyan-400"] > [mod-child]:hover,
+[mod-each-child~="on-focus-background-cyan-400"] > [mod-child]:focus{
+  background: #26c6da;
+}
+[mod-background~="cyan-500"],
+[mod-each-child~="background-cyan-500"] > [mod-child],
+[mod-background~="on-hover-cyan-500"]:hover,
+[mod-background~="on-focus-cyan-500"]:focus,
+[mod-each-child~="on-hover-background-cyan-500"] > [mod-child]:hover,
+[mod-each-child~="on-focus-background-cyan-500"] > [mod-child]:focus{
+  background: #00bcd4;
+}
+[mod-background~="cyan-600"],
+[mod-each-child~="background-cyan-600"] > [mod-child],
+[mod-background~="on-hover-cyan-600"]:hover,
+[mod-background~="on-focus-cyan-600"]:focus,
+[mod-each-child~="on-hover-background-cyan-600"] > [mod-child]:hover,
+[mod-each-child~="on-focus-background-cyan-600"] > [mod-child]:focus{
+  background: #00acc1;
+}
+[mod-background~="cyan-700"],
+[mod-each-child~="background-cyan-700"] > [mod-child],
+[mod-background~="on-hover-cyan-700"]:hover,
+[mod-background~="on-focus-cyan-700"]:focus,
+[mod-each-child~="on-hover-background-cyan-700"] > [mod-child]:hover,
+[mod-each-child~="on-focus-background-cyan-700"] > [mod-child]:focus{
+  background: #0097a7;
+}
+[mod-background~="cyan-800"],
+[mod-each-child~="background-cyan-800"] > [mod-child],
+[mod-background~="on-hover-cyan-800"]:hover,
+[mod-background~="on-focus-cyan-800"]:focus,
+[mod-each-child~="on-hover-background-cyan-800"] > [mod-child]:hover,
+[mod-each-child~="on-focus-background-cyan-800"] > [mod-child]:focus{
+  background: #00838f;
+}
+[mod-background~="cyan-900"],
+[mod-each-child~="background-cyan-900"] > [mod-child],
+[mod-background~="on-hover-cyan-900"]:hover,
+[mod-background~="on-focus-cyan-900"]:focus,
+[mod-each-child~="on-hover-background-cyan-900"] > [mod-child]:hover,
+[mod-each-child~="on-focus-background-cyan-900"] > [mod-child]:focus{
+  background: #006064;
+}
+[mod-background~="cyan-a100"],
+[mod-each-child~="background-cyan-a100"] > [mod-child],
+[mod-background~="on-hover-cyan-a100"]:hover,
+[mod-background~="on-focus-cyan-a100"]:focus,
+[mod-each-child~="on-hover-background-cyan-a100"] > [mod-child]:hover,
+[mod-each-child~="on-focus-background-cyan-a100"] > [mod-child]:focus{
+  background: #84ffff;
+}
+[mod-background~="cyan-a200"],
+[mod-each-child~="background-cyan-a200"] > [mod-child],
+[mod-background~="on-hover-cyan-a200"]:hover,
+[mod-background~="on-focus-cyan-a200"]:focus,
+[mod-each-child~="on-hover-background-cyan-a200"] > [mod-child]:hover,
+[mod-each-child~="on-focus-background-cyan-a200"] > [mod-child]:focus{
+  background: #18ffff;
+}
+[mod-background~="cyan-a400"],
+[mod-each-child~="background-cyan-a400"] > [mod-child],
+[mod-background~="on-hover-cyan-a400"]:hover,
+[mod-background~="on-focus-cyan-a400"]:focus,
+[mod-each-child~="on-hover-background-cyan-a400"] > [mod-child]:hover,
+[mod-each-child~="on-focus-background-cyan-a400"] > [mod-child]:focus{
+  background:  #00e5ff;
+}
+[mod-background~="cyan-a700"],
+[mod-each-child~="background-cyan-a700"] > [mod-child],
+[mod-background~="on-hover-cyan-a700"]:hover,
+[mod-background~="on-focus-cyan-a700"]:focus,
+[mod-each-child~="on-hover-background-cyan-a700"] > [mod-child]:hover,
+[mod-each-child~="on-focus-background-cyan-a700"] > [mod-child]:focus{
+  background: #00b8d4;
+}
+
+/* -- cyan text / icon colors -- */
+
+[mod-color~="cyan"],
+[mod-each-child~="color-cyan"] > [mod-child],
+[mod-color~="on-hover-cyan"]:hover,
+[mod-color~="on-focus-cyan"]:focus,
+[mod-each-child~="on-hover-color-cyan"] > [mod-child]:hover,
+[mod-each-child~="on-focus-color-cyan"] > [mod-child]:focus{
+  color: #00bcd4;
+}
+[mod-color~="cyan-50"],
+[mod-each-child~="color-cyan-50"] > [mod-child],
+[mod-color~="on-hover-cyan-50"]:hover,
+[mod-color~="on-focus-cyan-50"]:focus,
+[mod-each-child~="on-hover-color-cyan-50"] > [mod-child]:hover,
+[mod-each-child~="on-focus-color-cyan-50"] > [mod-child]:focus{
+  color: #e0f7fa;
+}
+[mod-color~="cyan-100"],
+[mod-each-child~="color-cyan-100"] > [mod-child],
+[mod-color~="on-hover-cyan-100"]:hover,
+[mod-color~="on-focus-cyan-100"]:focus,
+[mod-each-child~="on-hover-color-cyan-100"] > [mod-child]:hover,
+[mod-each-child~="on-focus-color-cyan-100"] > [mod-child]:focus{
+  color: #b2ebf2;
+}
+[mod-color~="cyan-200"],
+[mod-each-child~="color-cyan-200"] > [mod-child],
+[mod-color~="on-hover-cyan-200"]:hover,
+[mod-color~="on-focus-cyan-200"]:focus,
+[mod-each-child~="on-hover-color-cyan-200"] > [mod-child]:hover,
+[mod-each-child~="on-focus-color-cyan-200"] > [mod-child]:focus{
+  color: #80deea;
+}
+[mod-color~="cyan-300"],
+[mod-each-child~="color-cyan-300"] > [mod-child],
+[mod-color~="on-hover-cyan-300"]:hover,
+[mod-color~="on-focus-cyan-300"]:focus,
+[mod-each-child~="on-hover-color-cyan-300"] > [mod-child]:hover,
+[mod-each-child~="on-focus-color-cyan-300"] > [mod-child]:focus{
+  color: #4dd0e1;
+}
+[mod-color~="cyan-400"],
+[mod-each-child~="color-cyan-400"] > [mod-child],
+[mod-color~="on-hover-cyan-400"]:hover,
+[mod-color~="on-focus-cyan-400"]:focus,
+[mod-each-child~="on-hover-color-cyan-400"] > [mod-child]:hover,
+[mod-each-child~="on-focus-color-cyan-400"] > [mod-child]:focus{
+  color: #26c6da;
+}
+[mod-color~="cyan-500"],
+[mod-each-child~="color-cyan-500"] > [mod-child],
+[mod-color~="on-hover-cyan-500"]:hover,
+[mod-color~="on-focus-cyan-500"]:focus,
+[mod-each-child~="on-hover-color-cyan-500"] > [mod-child]:hover,
+[mod-each-child~="on-focus-color-cyan-500"] > [mod-child]:focus{
+  color: #00bcd4;
+}
+[mod-color~="cyan-600"],
+[mod-each-child~="color-cyan-600"] > [mod-child],
+[mod-color~="on-hover-cyan-600"]:hover,
+[mod-color~="on-focus-cyan-600"]:focus,
+[mod-each-child~="on-hover-color-cyan-600"] > [mod-child]:hover,
+[mod-each-child~="on-focus-color-cyan-600"] > [mod-child]:focus{
+  color: #00acc1;
+}
+[mod-color~="cyan-700"],
+[mod-each-child~="color-cyan-700"] > [mod-child],
+[mod-color~="on-hover-cyan-700"]:hover,
+[mod-color~="on-focus-cyan-700"]:focus,
+[mod-each-child~="on-hover-color-cyan-700"] > [mod-child]:hover,
+[mod-each-child~="on-focus-color-cyan-700"] > [mod-child]:focus{
+  color: #0097a7;
+}
+[mod-color~="cyan-800"],
+[mod-each-child~="color-cyan-800"] > [mod-child],
+[mod-color~="on-hover-cyan-800"]:hover,
+[mod-color~="on-focus-cyan-800"]:focus,
+[mod-each-child~="on-hover-color-cyan-800"] > [mod-child]:hover,
+[mod-each-child~="on-focus-color-cyan-800"] > [mod-child]:focus{
+  color: #00838f;
+}
+[mod-color~="cyan-900"],
+[mod-each-child~="color-cyan-900"] > [mod-child],
+[mod-color~="on-hover-cyan-900"]:hover,
+[mod-color~="on-focus-cyan-900"]:focus,
+[mod-each-child~="on-hover-color-cyan-900"] > [mod-child]:hover,
+[mod-each-child~="on-focus-color-cyan-900"] > [mod-child]:focus{
+  color: #006064;
+}
+[mod-color~="cyan-a100"],
+[mod-each-child~="color-cyan-a100"] > [mod-child],
+[mod-color~="on-hover-cyan-a100"]:hover,
+[mod-color~="on-focus-cyan-a100"]:focus,
+[mod-each-child~="on-hover-color-cyan-a100"] > [mod-child]:hover,
+[mod-each-child~="on-focus-color-cyan-a100"] > [mod-child]:focus{
+  color: #84ffff;
+}
+[mod-color~="cyan-a200"],
+[mod-each-child~="color-cyan-a200"] > [mod-child],
+[mod-color~="on-hover-cyan-a200"]:hover,
+[mod-color~="on-focus-cyan-a200"]:focus,
+[mod-each-child~="on-hover-color-cyan-a200"] > [mod-child]:hover,
+[mod-each-child~="on-focus-color-cyan-a200"] > [mod-child]:focus{
+  color: #18ffff;
+}
+[mod-color~="cyan-a400"],
+[mod-each-child~="color-cyan-a400"] > [mod-child],
+[mod-color~="on-hover-cyan-a400"]:hover,
+[mod-color~="on-focus-cyan-a400"]:focus,
+[mod-each-child~="on-hover-color-cyan-a400"] > [mod-child]:hover,
+[mod-each-child~="on-focus-color-cyan-a400"] > [mod-child]:focus{
+  color:  #00e5ff;
+}
+[mod-color~="cyan-a700"],
+[mod-each-child~="color-cyan-a700"] > [mod-child],
+[mod-color~="on-hover-cyan-a700"]:hover,
+[mod-color~="on-focus-cyan-a700"]:focus,
+[mod-each-child~="on-hover-color-cyan-a700"] > [mod-child]:hover,
+[mod-each-child~="on-focus-color-cyan-a700"] > [mod-child]:focus{
+  color: #00b8d4;
+}
+
+/* -- cyan border colors -- */
+
+[mod-border-color~="cyan"],
+[mod-each-child~="border-color-cyan"] > [mod-child],
+[mod-border-color~="on-hover-cyan"]:hover,
+[mod-border-color~="on-focus-cyan"]:focus,
+[mod-each-child~="on-hover-border-color-cyan"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-color-cyan"] > [mod-child]:focus{
+  border-color: #00bcd4;
+}
+[mod-border-color~="cyan-50"],
+[mod-each-child~="border-color-cyan-50"] > [mod-child],
+[mod-border-color~="on-hover-cyan-50"]:hover,
+[mod-border-color~="on-focus-cyan-50"]:focus,
+[mod-each-child~="on-hover-border-color-cyan-50"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-color-cyan-50"] > [mod-child]:focus{
+  border-color: #e0f7fa;
+}
+[mod-border-color~="cyan-100"],
+[mod-each-child~="border-color-cyan-100"] > [mod-child],
+[mod-border-color~="on-hover-cyan-100"]:hover,
+[mod-border-color~="on-focus-cyan-100"]:focus,
+[mod-each-child~="on-hover-border-color-cyan-100"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-color-cyan-100"] > [mod-child]:focus{
+  border-color: #b2ebf2;
+}
+[mod-border-color~="cyan-200"],
+[mod-each-child~="border-color-cyan-200"] > [mod-child],
+[mod-border-color~="on-hover-cyan-200"]:hover,
+[mod-border-color~="on-focus-cyan-200"]:focus,
+[mod-each-child~="on-hover-border-color-cyan-200"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-color-cyan-200"] > [mod-child]:focus{
+  border-color: #80deea;
+}
+[mod-border-color~="cyan-300"],
+[mod-each-child~="border-color-cyan-300"] > [mod-child],
+[mod-border-color~="on-hover-cyan-300"]:hover,
+[mod-border-color~="on-focus-cyan-300"]:focus,
+[mod-each-child~="on-hover-border-color-cyan-300"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-color-cyan-300"] > [mod-child]:focus{
+  border-color: #4dd0e1;
+}
+[mod-border-color~="cyan-400"],
+[mod-each-child~="border-color-cyan-400"] > [mod-child],
+[mod-border-color~="on-hover-cyan-400"]:hover,
+[mod-border-color~="on-focus-cyan-400"]:focus,
+[mod-each-child~="on-hover-border-color-cyan-400"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-color-cyan-400"] > [mod-child]:focus{
+  border-color: #26c6da;
+}
+[mod-border-color~="cyan-500"],
+[mod-each-child~="border-color-cyan-500"] > [mod-child],
+[mod-border-color~="on-hover-cyan-500"]:hover,
+[mod-border-color~="on-focus-cyan-500"]:focus,
+[mod-each-child~="on-hover-border-color-cyan-500"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-color-cyan-500"] > [mod-child]:focus{
+  border-color: #00bcd4;
+}
+[mod-border-color~="cyan-600"],
+[mod-each-child~="border-color-cyan-600"] > [mod-child],
+[mod-border-color~="on-hover-cyan-600"]:hover,
+[mod-border-color~="on-focus-cyan-600"]:focus,
+[mod-each-child~="on-hover-border-color-cyan-600"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-color-cyan-600"] > [mod-child]:focus{
+  border-color: #00acc1;
+}
+[mod-border-color~="cyan-700"],
+[mod-each-child~="border-color-cyan-700"] > [mod-child],
+[mod-border-color~="on-hover-cyan-700"]:hover,
+[mod-border-color~="on-focus-cyan-700"]:focus,
+[mod-each-child~="on-hover-border-color-cyan-700"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-color-cyan-700"] > [mod-child]:focus{
+  border-color: #0097a7;
+}
+[mod-border-color~="cyan-800"],
+[mod-each-child~="border-color-cyan-800"] > [mod-child],
+[mod-border-color~="on-hover-cyan-800"]:hover,
+[mod-border-color~="on-focus-cyan-800"]:focus,
+[mod-each-child~="on-hover-border-color-cyan-800"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-color-cyan-800"] > [mod-child]:focus{
+  border-color: #00838f;
+}
+[mod-border-color~="cyan-900"],
+[mod-each-child~="border-color-cyan-900"] > [mod-child],
+[mod-border-color~="on-hover-cyan-900"]:hover,
+[mod-border-color~="on-focus-cyan-900"]:focus,
+[mod-each-child~="on-hover-border-color-cyan-900"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-color-cyan-900"] > [mod-child]:focus{
+  border-color: #006064;
+}
+[mod-border-color~="cyan-a100"],
+[mod-each-child~="border-color-cyan-a100"] > [mod-child],
+[mod-border-color~="on-hover-cyan-a100"]:hover,
+[mod-border-color~="on-focus-cyan-a100"]:focus,
+[mod-each-child~="on-hover-border-color-cyan-a100"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-color-cyan-a100"] > [mod-child]:focus{
+  border-color: #84ffff;
+}
+[mod-border-color~="cyan-a200"],
+[mod-each-child~="border-color-cyan-a200"] > [mod-child],
+[mod-border-color~="on-hover-cyan-a200"]:hover,
+[mod-border-color~="on-focus-cyan-a200"]:focus,
+[mod-each-child~="on-hover-border-color-cyan-a200"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-color-cyan-a200"] > [mod-child]:focus{
+  border-color: #18ffff;
+}
+[mod-border-color~="cyan-a400"],
+[mod-each-child~="border-color-cyan-a400"] > [mod-child],
+[mod-border-color~="on-hover-cyan-a400"]:hover,
+[mod-border-color~="on-focus-cyan-a400"]:focus,
+[mod-each-child~="on-hover-border-color-cyan-a400"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-color-cyan-a400"] > [mod-child]:focus{
+  border-color:  #00e5ff;
+}
+[mod-border-color~="cyan-a700"],
+[mod-each-child~="border-color-cyan-a700"] > [mod-child],
+[mod-border-color~="on-hover-cyan-a700"]:hover,
+[mod-border-color~="on-focus-cyan-a700"]:focus,
+[mod-each-child~="on-hover-border-color-cyan-a700"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-color-cyan-a700"] > [mod-child]:focus{
+  border-color: #00b8d4;
+}
