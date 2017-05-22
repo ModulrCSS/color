@@ -128,248 +128,249 @@
   background: #d50000;
 }
 
-/* -- red text / icon colors -- */
+/* -- red text colors -- */
 
-[mod-color~="red"],
-[mod-each-child~="color-red"] > [mod-child],
-[mod-color~="on-hover-red"]:hover,
-[mod-color~="on-focus-red"]:focus,
-[mod-each-child~="on-hover-color-red"] > [mod-child]:hover,
-[mod-each-child~="on-focus-color-red"] > [mod-child]:focus{
+[mod-text~="red"],
+[mod-each-child~="text-red"] > [mod-child],
+[mod-text~="on-hover-red"]:hover,
+[mod-text~="on-focus-red"]:focus,
+[mod-each-child~="on-hover-text-red"] > [mod-child]:hover,
+[mod-each-child~="on-focus-text-red"] > [mod-child]:focus{
   color: #f44336;
 }
-[mod-color~="red-50"],
-[mod-each-child~="color-red-50"] > [mod-child],
-[mod-color~="on-hover-red-50"]:hover,
-[mod-color~="on-focus-red-50"]:focus,
-[mod-each-child~="on-hover-color-red-50"] > [mod-child]:hover,
-[mod-each-child~="on-focus-color-red-50"] > [mod-child]:focus{
+[mod-text~="red-50"],
+[mod-each-child~="text-red-50"] > [mod-child],
+[mod-text~="on-hover-red-50"]:hover,
+[mod-text~="on-focus-red-50"]:focus,
+[mod-each-child~="on-hover-text-red-50"] > [mod-child]:hover,
+[mod-each-child~="on-focus-text-red-50"] > [mod-child]:focus{
   color: #ffebee;
 }
-[mod-color~="red-100"],
-[mod-each-child~="color-red-100"] > [mod-child],
-[mod-color~="on-hover-red-100"]:hover,
-[mod-color~="on-focus-red-100"]:focus,
-[mod-each-child~="on-hover-color-red-100"] > [mod-child]:hover,
-[mod-each-child~="on-focus-color-red-100"] > [mod-child]:focus{
+[mod-text~="red-100"],
+[mod-each-child~="text-red-100"] > [mod-child],
+[mod-text~="on-hover-red-100"]:hover,
+[mod-text~="on-focus-red-100"]:focus,
+[mod-each-child~="on-hover-text-red-100"] > [mod-child]:hover,
+[mod-each-child~="on-focus-text-red-100"] > [mod-child]:focus{
   color: #ffcdd2;
 }
-[mod-color~="red-200"],
-[mod-each-child~="color-red-200"] > [mod-child],
-[mod-color~="on-hover-red-200"]:hover,
-[mod-color~="on-focus-red-200"]:focus,
-[mod-each-child~="on-hover-color-red-200"] > [mod-child]:hover,
-[mod-each-child~="on-focus-color-red-200"] > [mod-child]:focus{
+[mod-text~="red-200"],
+[mod-each-child~="text-red-200"] > [mod-child],
+[mod-text~="on-hover-red-200"]:hover,
+[mod-text~="on-focus-red-200"]:focus,
+[mod-each-child~="on-hover-text-red-200"] > [mod-child]:hover,
+[mod-each-child~="on-focus-text-red-200"] > [mod-child]:focus{
   color: #ef9a9a;
 }
-[mod-color~="red-300"],
-[mod-each-child~="color-red-300"] > [mod-child],
-[mod-color~="on-hover-red-300"]:hover,
-[mod-color~="on-focus-red-300"]:focus,
-[mod-each-child~="on-hover-color-red-300"] > [mod-child]:hover,
-[mod-each-child~="on-focus-color-red-300"] > [mod-child]:focus{
+[mod-text~="red-300"],
+[mod-each-child~="text-red-300"] > [mod-child],
+[mod-text~="on-hover-red-300"]:hover,
+[mod-text~="on-focus-red-300"]:focus,
+[mod-each-child~="on-hover-text-red-300"] > [mod-child]:hover,
+[mod-each-child~="on-focus-text-red-300"] > [mod-child]:focus{
   color: #e57373;
 }
-[mod-color~="red-400"],
-[mod-each-child~="color-red-400"] > [mod-child],
-[mod-color~="on-hover-red-400"]:hover,
-[mod-color~="on-focus-red-400"]:focus,
-[mod-each-child~="on-hover-color-red-400"] > [mod-child]:hover,
-[mod-each-child~="on-focus-color-red-400"] > [mod-child]:focus{
+[mod-text~="red-400"],
+[mod-each-child~="text-red-400"] > [mod-child],
+[mod-text~="on-hover-red-400"]:hover,
+[mod-text~="on-focus-red-400"]:focus,
+[mod-each-child~="on-hover-text-red-400"] > [mod-child]:hover,
+[mod-each-child~="on-focus-text-red-400"] > [mod-child]:focus{
   color: #ef5350;
 }
-[mod-color~="red-500"],
-[mod-each-child~="color-red-500"] > [mod-child],
-[mod-color~="on-hover-red-500"]:hover,
-[mod-color~="on-focus-red-500"]:focus,
-[mod-each-child~="on-hover-color-red-500"] > [mod-child]:hover,
-[mod-each-child~="on-focus-color-red-500"] > [mod-child]:focus{
+[mod-text~="red-500"],
+[mod-each-child~="text-red-500"] > [mod-child],
+[mod-text~="on-hover-red-500"]:hover,
+[mod-text~="on-focus-red-500"]:focus,
+[mod-each-child~="on-hover-text-red-500"] > [mod-child]:hover,
+[mod-each-child~="on-focus-text-red-500"] > [mod-child]:focus{
   color: #f44336;
 }
-[mod-color~="red-600"],
-[mod-each-child~="color-red-600"] > [mod-child],
-[mod-color~="on-hover-red-600"]:hover,
-[mod-color~="on-focus-red-600"]:focus,
-[mod-each-child~="on-hover-color-red-600"] > [mod-child]:hover,
-[mod-each-child~="on-focus-color-red-600"] > [mod-child]:focus{
+[mod-text~="red-600"],
+[mod-each-child~="text-red-600"] > [mod-child],
+[mod-text~="on-hover-red-600"]:hover,
+[mod-text~="on-focus-red-600"]:focus,
+[mod-each-child~="on-hover-text-red-600"] > [mod-child]:hover,
+[mod-each-child~="on-focus-text-red-600"] > [mod-child]:focus{
   color: #e53935;
 }
-[mod-color~="red-700"],
-[mod-each-child~="color-red-700"] > [mod-child],
-[mod-color~="on-hover-red-700"]:hover,
-[mod-color~="on-focus-red-700"]:focus,
-[mod-each-child~="on-hover-color-red-700"] > [mod-child]:hover,
-[mod-each-child~="on-focus-color-red-700"] > [mod-child]:focus{
+[mod-text~="red-700"],
+[mod-each-child~="text-red-700"] > [mod-child],
+[mod-text~="on-hover-red-700"]:hover,
+[mod-text~="on-focus-red-700"]:focus,
+[mod-each-child~="on-hover-text-red-700"] > [mod-child]:hover,
+[mod-each-child~="on-focus-text-red-700"] > [mod-child]:focus{
   color: #d32f2f;
 }
-[mod-color~="red-800"],
-[mod-each-child~="color-red-800"] > [mod-child],
-[mod-color~="on-hover-red-800"]:hover,
-[mod-color~="on-focus-red-800"]:focus,
-[mod-each-child~="on-hover-color-red-800"] > [mod-child]:hover,
-[mod-each-child~="on-focus-color-red-800"] > [mod-child]:focus{
+[mod-text~="red-800"],
+[mod-each-child~="text-red-800"] > [mod-child],
+[mod-text~="on-hover-red-800"]:hover,
+[mod-text~="on-focus-red-800"]:focus,
+[mod-each-child~="on-hover-text-red-800"] > [mod-child]:hover,
+[mod-each-child~="on-focus-text-red-800"] > [mod-child]:focus{
   color: #c62828;
 }
-[mod-color~="red-900"],
-[mod-each-child~="color-red-900"] > [mod-child],
-[mod-color~="on-hover-red-900"]:hover,
-[mod-color~="on-focus-red-900"]:focus,
-[mod-each-child~="on-hover-color-red-900"] > [mod-child]:hover,
-[mod-each-child~="on-focus-color-red-900"] > [mod-child]:focus{
+[mod-text~="red-900"],
+[mod-each-child~="text-red-900"] > [mod-child],
+[mod-text~="on-hover-red-900"]:hover,
+[mod-text~="on-focus-red-900"]:focus,
+[mod-each-child~="on-hover-text-red-900"] > [mod-child]:hover,
+[mod-each-child~="on-focus-text-red-900"] > [mod-child]:focus{
   color: #b71c1c;
 }
-[mod-color~="red-a100"],
-[mod-each-child~="color-red-a100"] > [mod-child],
-[mod-color~="on-hover-red-a100"]:hover,
-[mod-color~="on-focus-red-a100"]:focus,
-[mod-each-child~="on-hover-color-red-a100"] > [mod-child]:hover,
-[mod-each-child~="on-focus-color-red-a100"] > [mod-child]:focus{
+[mod-text~="red-a100"],
+[mod-each-child~="text-red-a100"] > [mod-child],
+[mod-text~="on-hover-red-a100"]:hover,
+[mod-text~="on-focus-red-a100"]:focus,
+[mod-each-child~="on-hover-text-red-a100"] > [mod-child]:hover,
+[mod-each-child~="on-focus-text-red-a100"] > [mod-child]:focus{
   color: #ff8a80;
 }
-[mod-color~="red-a200"],
-[mod-each-child~="color-red-a200"] > [mod-child],
-[mod-color~="on-hover-red-a200"]:hover,
-[mod-color~="on-focus-red-a200"]:focus,
-[mod-each-child~="on-hover-color-red-a200"] > [mod-child]:hover,
-[mod-each-child~="on-focus-color-red-a200"] > [mod-child]:focus{
+[mod-text~="red-a200"],
+[mod-each-child~="text-red-a200"] > [mod-child],
+[mod-text~="on-hover-red-a200"]:hover,
+[mod-text~="on-focus-red-a200"]:focus,
+[mod-each-child~="on-hover-text-red-a200"] > [mod-child]:hover,
+[mod-each-child~="on-focus-text-red-a200"] > [mod-child]:focus{
   color: #ff5252;
 }
-[mod-color~="red-a400"],
-[mod-each-child~="color-red-a400"] > [mod-child],
-[mod-color~="on-hover-red-a400"]:hover,
-[mod-color~="on-focus-red-a400"]:focus,
-[mod-each-child~="on-hover-color-red-a400"] > [mod-child]:hover,
-[mod-each-child~="on-focus-color-red-a400"] > [mod-child]:focus{
+[mod-text~="red-a400"],
+[mod-each-child~="text-red-a400"] > [mod-child],
+[mod-text~="on-hover-red-a400"]:hover,
+[mod-text~="on-focus-red-a400"]:focus,
+[mod-each-child~="on-hover-text-red-a400"] > [mod-child]:hover,
+[mod-each-child~="on-focus-text-red-a400"] > [mod-child]:focus{
   color:  #ff1744;
 }
-[mod-color~="red-a700"],
-[mod-each-child~="color-red-a700"] > [mod-child],
-[mod-color~="on-hover-red-a700"]:hover,
-[mod-color~="on-focus-red-a700"]:focus,
-[mod-each-child~="on-hover-color-red-a700"] > [mod-child]:hover,
-[mod-each-child~="on-focus-color-red-a700"] > [mod-child]:focus{
+[mod-text~="red-a700"],
+[mod-each-child~="text-red-a700"] > [mod-child],
+[mod-text~="on-hover-red-a700"]:hover,
+[mod-text~="on-focus-red-a700"]:focus,
+[mod-each-child~="on-hover-text-red-a700"] > [mod-child]:hover,
+[mod-each-child~="on-focus-text-red-a700"] > [mod-child]:focus{
   color: #d50000;
 }
 
+
 /* -- red border colors -- */
 
-[mod-border-color~="red"],
-[mod-each-child~="border-color-red"] > [mod-child],
-[mod-border-color~="on-hover-red"]:hover,
-[mod-border-color~="on-focus-red"]:focus,
-[mod-each-child~="on-hover-border-color-red"] > [mod-child]:hover,
-[mod-each-child~="on-focus-border-color-red"] > [mod-child]:focus{
+[mod-border~="red"],
+[mod-each-child~="border-red"] > [mod-child],
+[mod-border~="on-hover-red"]:hover,
+[mod-border~="on-focus-red"]:focus,
+[mod-each-child~="on-hover-border-red"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-red"] > [mod-child]:focus{
   border-color: #f44336;
 }
-[mod-border-color~="red-50"],
-[mod-each-child~="border-color-red-50"] > [mod-child],
-[mod-border-color~="on-hover-red-50"]:hover,
-[mod-border-color~="on-focus-red-50"]:focus,
-[mod-each-child~="on-hover-border-color-red-50"] > [mod-child]:hover,
-[mod-each-child~="on-focus-border-color-red-50"] > [mod-child]:focus{
+[mod-border~="red-50"],
+[mod-each-child~="border-red-50"] > [mod-child],
+[mod-border~="on-hover-red-50"]:hover,
+[mod-border~="on-focus-red-50"]:focus,
+[mod-each-child~="on-hover-border-red-50"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-red-50"] > [mod-child]:focus{
   border-color: #ffebee;
 }
-[mod-border-color~="red-100"],
-[mod-each-child~="border-color-red-100"] > [mod-child],
-[mod-border-color~="on-hover-red-100"]:hover,
-[mod-border-color~="on-focus-red-100"]:focus,
-[mod-each-child~="on-hover-border-color-red-100"] > [mod-child]:hover,
-[mod-each-child~="on-focus-border-color-red-100"] > [mod-child]:focus{
+[mod-border~="red-100"],
+[mod-each-child~="border-red-100"] > [mod-child],
+[mod-border~="on-hover-red-100"]:hover,
+[mod-border~="on-focus-red-100"]:focus,
+[mod-each-child~="on-hover-border-red-100"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-red-100"] > [mod-child]:focus{
   border-color: #ffcdd2;
 }
-[mod-border-color~="red-200"],
-[mod-each-child~="border-color-red-200"] > [mod-child],
-[mod-border-color~="on-hover-red-200"]:hover,
-[mod-border-color~="on-focus-red-200"]:focus,
-[mod-each-child~="on-hover-border-color-red-200"] > [mod-child]:hover,
-[mod-each-child~="on-focus-border-color-red-200"] > [mod-child]:focus{
+[mod-border~="red-200"],
+[mod-each-child~="border-red-200"] > [mod-child],
+[mod-border~="on-hover-red-200"]:hover,
+[mod-border~="on-focus-red-200"]:focus,
+[mod-each-child~="on-hover-border-red-200"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-red-200"] > [mod-child]:focus{
   border-color: #ef9a9a;
 }
-[mod-border-color~="red-300"],
-[mod-each-child~="border-color-red-300"] > [mod-child],
-[mod-border-color~="on-hover-red-300"]:hover,
-[mod-border-color~="on-focus-red-300"]:focus,
-[mod-each-child~="on-hover-border-color-red-300"] > [mod-child]:hover,
-[mod-each-child~="on-focus-border-color-red-300"] > [mod-child]:focus{
+[mod-border~="red-300"],
+[mod-each-child~="border-red-300"] > [mod-child],
+[mod-border~="on-hover-red-300"]:hover,
+[mod-border~="on-focus-red-300"]:focus,
+[mod-each-child~="on-hover-border-red-300"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-red-300"] > [mod-child]:focus{
   border-color: #e57373;
 }
-[mod-border-color~="red-400"],
-[mod-each-child~="border-color-red-400"] > [mod-child],
-[mod-border-color~="on-hover-red-400"]:hover,
-[mod-border-color~="on-focus-red-400"]:focus,
-[mod-each-child~="on-hover-border-color-red-400"] > [mod-child]:hover,
-[mod-each-child~="on-focus-border-color-red-400"] > [mod-child]:focus{
+[mod-border~="red-400"],
+[mod-each-child~="border-red-400"] > [mod-child],
+[mod-border~="on-hover-red-400"]:hover,
+[mod-border~="on-focus-red-400"]:focus,
+[mod-each-child~="on-hover-border-red-400"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-red-400"] > [mod-child]:focus{
   border-color: #ef5350;
 }
-[mod-border-color~="red-500"],
-[mod-each-child~="border-color-red-500"] > [mod-child],
-[mod-border-color~="on-hover-red-500"]:hover,
-[mod-border-color~="on-focus-red-500"]:focus,
-[mod-each-child~="on-hover-border-color-red-500"] > [mod-child]:hover,
-[mod-each-child~="on-focus-border-color-red-500"] > [mod-child]:focus{
+[mod-border~="red-500"],
+[mod-each-child~="border-red-500"] > [mod-child],
+[mod-border~="on-hover-red-500"]:hover,
+[mod-border~="on-focus-red-500"]:focus,
+[mod-each-child~="on-hover-border-red-500"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-red-500"] > [mod-child]:focus{
   border-color: #f44336;
 }
-[mod-border-color~="red-600"],
-[mod-each-child~="border-color-red-600"] > [mod-child],
-[mod-border-color~="on-hover-red-600"]:hover,
-[mod-border-color~="on-focus-red-600"]:focus,
-[mod-each-child~="on-hover-border-color-red-600"] > [mod-child]:hover,
-[mod-each-child~="on-focus-border-color-red-600"] > [mod-child]:focus{
+[mod-border~="red-600"],
+[mod-each-child~="border-red-600"] > [mod-child],
+[mod-border~="on-hover-red-600"]:hover,
+[mod-border~="on-focus-red-600"]:focus,
+[mod-each-child~="on-hover-border-red-600"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-red-600"] > [mod-child]:focus{
   border-color: #e53935;
 }
-[mod-border-color~="red-700"],
-[mod-each-child~="border-color-red-700"] > [mod-child],
-[mod-border-color~="on-hover-red-700"]:hover,
-[mod-border-color~="on-focus-red-700"]:focus,
-[mod-each-child~="on-hover-border-color-red-700"] > [mod-child]:hover,
-[mod-each-child~="on-focus-border-color-red-700"] > [mod-child]:focus{
+[mod-border~="red-700"],
+[mod-each-child~="border-red-700"] > [mod-child],
+[mod-border~="on-hover-red-700"]:hover,
+[mod-border~="on-focus-red-700"]:focus,
+[mod-each-child~="on-hover-border-red-700"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-red-700"] > [mod-child]:focus{
   border-color: #d32f2f;
 }
-[mod-border-color~="red-800"],
-[mod-each-child~="border-color-red-800"] > [mod-child],
-[mod-border-color~="on-hover-red-800"]:hover,
-[mod-border-color~="on-focus-red-800"]:focus,
-[mod-each-child~="on-hover-border-color-red-800"] > [mod-child]:hover,
-[mod-each-child~="on-focus-border-color-red-800"] > [mod-child]:focus{
+[mod-border~="red-800"],
+[mod-each-child~="border-red-800"] > [mod-child],
+[mod-border~="on-hover-red-800"]:hover,
+[mod-border~="on-focus-red-800"]:focus,
+[mod-each-child~="on-hover-border-red-800"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-red-800"] > [mod-child]:focus{
   border-color: #c62828;
 }
-[mod-border-color~="red-900"],
-[mod-each-child~="border-color-red-900"] > [mod-child],
-[mod-border-color~="on-hover-red-900"]:hover,
-[mod-border-color~="on-focus-red-900"]:focus,
-[mod-each-child~="on-hover-border-color-red-900"] > [mod-child]:hover,
-[mod-each-child~="on-focus-border-color-red-900"] > [mod-child]:focus{
+[mod-border~="red-900"],
+[mod-each-child~="border-red-900"] > [mod-child],
+[mod-border~="on-hover-red-900"]:hover,
+[mod-border~="on-focus-red-900"]:focus,
+[mod-each-child~="on-hover-border-red-900"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-red-900"] > [mod-child]:focus{
   border-color: #b71c1c;
 }
-[mod-border-color~="red-a100"],
-[mod-each-child~="border-color-red-a100"] > [mod-child],
-[mod-border-color~="on-hover-red-a100"]:hover,
-[mod-border-color~="on-focus-red-a100"]:focus,
-[mod-each-child~="on-hover-border-color-red-a100"] > [mod-child]:hover,
-[mod-each-child~="on-focus-border-color-red-a100"] > [mod-child]:focus{
+[mod-border~="red-a100"],
+[mod-each-child~="border-red-a100"] > [mod-child],
+[mod-border~="on-hover-red-a100"]:hover,
+[mod-border~="on-focus-red-a100"]:focus,
+[mod-each-child~="on-hover-border-red-a100"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-red-a100"] > [mod-child]:focus{
   border-color: #ff8a80;
 }
-[mod-border-color~="red-a200"],
-[mod-each-child~="border-color-red-a200"] > [mod-child],
-[mod-border-color~="on-hover-red-a200"]:hover,
-[mod-border-color~="on-focus-red-a200"]:focus,
-[mod-each-child~="on-hover-border-color-red-a200"] > [mod-child]:hover,
-[mod-each-child~="on-focus-border-color-red-a200"] > [mod-child]:focus{
+[mod-border~="red-a200"],
+[mod-each-child~="border-red-a200"] > [mod-child],
+[mod-border~="on-hover-red-a200"]:hover,
+[mod-border~="on-focus-red-a200"]:focus,
+[mod-each-child~="on-hover-border-red-a200"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-red-a200"] > [mod-child]:focus{
   border-color: #ff5252;
 }
-[mod-border-color~="red-a400"],
-[mod-each-child~="border-color-red-a400"] > [mod-child],
-[mod-border-color~="on-hover-red-a400"]:hover,
-[mod-border-color~="on-focus-red-a400"]:focus,
-[mod-each-child~="on-hover-border-color-red-a400"] > [mod-child]:hover,
-[mod-each-child~="on-focus-border-color-red-a400"] > [mod-child]:focus{
+[mod-border~="red-a400"],
+[mod-each-child~="border-red-a400"] > [mod-child],
+[mod-border~="on-hover-red-a400"]:hover,
+[mod-border~="on-focus-red-a400"]:focus,
+[mod-each-child~="on-hover-border-red-a400"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-red-a400"] > [mod-child]:focus{
   border-color:  #ff1744;
 }
-[mod-border-color~="red-a700"],
-[mod-each-child~="border-color-red-a700"] > [mod-child],
-[mod-border-color~="on-hover-red-a700"]:hover,
-[mod-border-color~="on-focus-red-a700"]:focus,
-[mod-each-child~="on-hover-border-color-red-a700"] > [mod-child]:hover,
-[mod-each-child~="on-focus-border-color-red-a700"] > [mod-child]:focus{
+[mod-border~="red-a700"],
+[mod-each-child~="border-red-a700"] > [mod-child],
+[mod-border~="on-hover-red-a700"]:hover,
+[mod-border~="on-focus-red-a700"]:focus,
+[mod-each-child~="on-hover-border-red-a700"] > [mod-child]:hover,
+[mod-each-child~="on-focus-border-red-a700"] > [mod-child]:focus{
   border-color: #d50000;
 }

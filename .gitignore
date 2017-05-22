@@ -35,6 +35,7 @@ build/
 dist/
 maps/
 old/
+_old/
 # Test Files #
 ##############
 coverage
