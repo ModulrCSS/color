@@ -1,0 +1,29 @@
+{
+  "name": "@modulr/color",
+  "version": "1.0.0",
+  "description": "Modulr.css Color Module (based on material design color palette)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ModulrCSS/color.git"
+  },
+  "keywords": [
+    "css",
+    "colors",
+    "material",
+    "design",
+    "boostrap",
+    "color",
+    "palette",
+    "html"
+  ],
+  "author": "Alan Museljic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ModulrCSS/color/issues"
+  },
+  "homepage": "https://github.com/ModulrCSS/color#readme"
+}
