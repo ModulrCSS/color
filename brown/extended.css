@@ -1,7 +1,7 @@
 /* 
-	Color Palettes: brown - extended 
-	CSS by: Alan Museljic
-	Credit Color Palettes Material Design Colors
+  Color Palettes: brown - extended 
+  CSS by: Alan Museljic
+  Credit Color Palettes Material Design Colors
 */
 
 
@@ -13,7 +13,7 @@
 [mod-background~="on-focus-brown"]:focus,
 [mod-each-child~="on-hover-background-brown"] > [mod-child]:hover,
 [mod-each-child~="on-focus-background-brown"] > [mod-child]:focus{
-	background: #795548;
+  background: #795548;
 }
 [mod-background~="brown-50"],
 [mod-each-child~="background-brown-50"] > [mod-child],
@@ -21,7 +21,7 @@
 [mod-background~="on-focus-brown-50"]:focus,
 [mod-each-child~="on-hover-background-brown-50"] > [mod-child]:hover,
 [mod-each-child~="on-focus-background-brown-50"] > [mod-child]:focus{
-	background: #efebe9;
+  background: #efebe9;
 }
 [mod-background~="brown-100"],
 [mod-each-child~="background-brown-100"] > [mod-child],
@@ -29,7 +29,7 @@
 [mod-background~="on-focus-brown-100"]:focus,
 [mod-each-child~="on-hover-background-brown-100"] > [mod-child]:hover,
 [mod-each-child~="on-focus-background-brown-100"] > [mod-child]:focus{
-	background: #d7ccc8;
+  background: #d7ccc8;
 }
 [mod-background~="brown-200"],
 [mod-each-child~="background-brown-200"] > [mod-child],
@@ -37,7 +37,7 @@
 [mod-background~="on-focus-brown-200"]:focus,
 [mod-each-child~="on-hover-background-brown-200"] > [mod-child]:hover,
 [mod-each-child~="on-focus-background-brown-200"] > [mod-child]:focus{
-	background: #bcaaa4;
+  background: #bcaaa4;
 }
 [mod-background~="brown-300"],
 [mod-each-child~="background-brown-300"] > [mod-child],
@@ -45,7 +45,7 @@
 [mod-background~="on-focus-brown-300"]:focus,
 [mod-each-child~="on-hover-background-brown-300"] > [mod-child]:hover,
 [mod-each-child~="on-focus-background-brown-300"] > [mod-child]:focus{
-	background: #a1887f;
+  background: #a1887f;
 }
 [mod-background~="brown-400"],
 [mod-each-child~="background-brown-400"] > [mod-child],
@@ -53,7 +53,7 @@
 [mod-background~="on-focus-brown-400"]:focus,
 [mod-each-child~="on-hover-background-brown-400"] > [mod-child]:hover,
 [mod-each-child~="on-focus-background-brown-400"] > [mod-child]:focus{
-	background: #8d6e63;
+  background: #8d6e63;
 }
 [mod-background~="brown-500"],
 [mod-each-child~="background-brown-500"] > [mod-child],
@@ -61,7 +61,7 @@
 [mod-background~="on-focus-brown-500"]:focus,
 [mod-each-child~="on-hover-background-brown-500"] > [mod-child]:hover,
 [mod-each-child~="on-focus-background-brown-500"] > [mod-child]:focus{
-	background: #795548;
+  background: #795548;
 }
 [mod-background~="brown-600"],
 [mod-each-child~="background-brown-600"] > [mod-child],
@@ -69,7 +69,7 @@
 [mod-background~="on-focus-brown-600"]:focus,
 [mod-each-child~="on-hover-background-brown-600"] > [mod-child]:hover,
 [mod-each-child~="on-focus-background-brown-600"] > [mod-child]:focus{
-	background: #6d4c41;
+  background: #6d4c41;
 }
 [mod-background~="brown-700"],
 [mod-each-child~="background-brown-700"] > [mod-child],
@@ -77,7 +77,7 @@
 [mod-background~="on-focus-brown-700"]:focus,
 [mod-each-child~="on-hover-background-brown-700"] > [mod-child]:hover,
 [mod-each-child~="on-focus-background-brown-700"] > [mod-child]:focus{
-	background: #5d4037;
+  background: #5d4037;
 }
 [mod-background~="brown-800"],
 [mod-each-child~="background-brown-800"] > [mod-child],
@@ -85,7 +85,7 @@
 [mod-background~="on-focus-brown-800"]:focus,
 [mod-each-child~="on-hover-background-brown-800"] > [mod-child]:hover,
 [mod-each-child~="on-focus-background-brown-800"] > [mod-child]:focus{
-	background: #4e342e;
+  background: #4e342e;
 }
 [mod-background~="brown-900"],
 [mod-each-child~="background-brown-900"] > [mod-child],
@@ -93,7 +93,7 @@
 [mod-background~="on-focus-brown-900"]:focus,
 [mod-each-child~="on-hover-background-brown-900"] > [mod-child]:hover,
 [mod-each-child~="on-focus-background-brown-900"] > [mod-child]:focus{
-	background: #3e2723;
+  background: #3e2723;
 }
 
 /* -- brown text colors -- */
@@ -105,7 +105,7 @@
 [mod-text~="on-focus-brown"]:focus,
 [mod-each-child~="on-hover-text-brown"] > [mod-child]:hover,
 [mod-each-child~="on-focus-text-brown"] > [mod-child]:focus{
-	color: #795548;
+  color: #795548;
 }
 [mod-text~="brown-50"],
 [mod-style~="brown-50"],
@@ -114,7 +114,7 @@
 [mod-text~="on-focus-brown-50"]:focus,
 [mod-each-child~="on-hover-text-brown-50"] > [mod-child]:hover,
 [mod-each-child~="on-focus-text-brown-50"] > [mod-child]:focus{
-	color: #efebe9;
+  color: #efebe9;
 }
 [mod-text~="brown-100"],
 [mod-style~="brown-100"],
@@ -123,7 +123,7 @@
 [mod-text~="on-focus-brown-100"]:focus,
 [mod-each-child~="on-hover-text-brown-100"] > [mod-child]:hover,
 [mod-each-child~="on-focus-text-brown-100"] > [mod-child]:focus{
-	color: #d7ccc8;
+  color: #d7ccc8;
 }
 [mod-text~="brown-200"],
 [mod-style~="brown-200"],
@@ -132,7 +132,7 @@
 [mod-text~="on-focus-brown-200"]:focus,
 [mod-each-child~="on-hover-text-brown-200"] > [mod-child]:hover,
 [mod-each-child~="on-focus-text-brown-200"] > [mod-child]:focus{
-	color: #bcaaa4;
+  color: #bcaaa4;
 }
 [mod-text~="brown-300"],
 [mod-style~="brown-300"],
@@ -141,7 +141,7 @@
 [mod-text~="on-focus-brown-300"]:focus,
 [mod-each-child~="on-hover-text-brown-300"] > [mod-child]:hover,
 [mod-each-child~="on-focus-text-brown-300"] > [mod-child]:focus{
-	color: #a1887f;
+  color: #a1887f;
 }
 [mod-text~="brown-400"],
 [mod-style~="brown-400"],
@@ -150,7 +150,7 @@
 [mod-text~="on-focus-brown-400"]:focus,
 [mod-each-child~="on-hover-text-brown-400"] > [mod-child]:hover,
 [mod-each-child~="on-focus-text-brown-400"] > [mod-child]:focus{
-	color: #8d6e63;
+  color: #8d6e63;
 }
 [mod-text~="brown-500"],
 [mod-style~="brown-500"],
@@ -159,7 +159,7 @@
 [mod-text~="on-focus-brown-500"]:focus,
 [mod-each-child~="on-hover-text-brown-500"] > [mod-child]:hover,
 [mod-each-child~="on-focus-text-brown-500"] > [mod-child]:focus{
-	color: #795548;
+  color: #795548;
 }
 [mod-text~="brown-600"],
 [mod-style~="brown-600"],
@@ -168,7 +168,7 @@
 [mod-text~="on-focus-brown-600"]:focus,
 [mod-each-child~="on-hover-text-brown-600"] > [mod-child]:hover,
 [mod-each-child~="on-focus-text-brown-600"] > [mod-child]:focus{
-	color: #6d4c41;
+  color: #6d4c41;
 }
 [mod-text~="brown-700"],
 [mod-style~="brown-700"],
@@ -177,7 +177,7 @@
 [mod-text~="on-focus-brown-700"]:focus,
 [mod-each-child~="on-hover-text-brown-700"] > [mod-child]:hover,
 [mod-each-child~="on-focus-text-brown-700"] > [mod-child]:focus{
-	color: #5d4037;
+  color: #5d4037;
 }
 [mod-text~="brown-800"],
 [mod-style~="brown-800"],
@@ -186,7 +186,7 @@
 [mod-text~="on-focus-brown-800"]:focus,
 [mod-each-child~="on-hover-text-brown-800"] > [mod-child]:hover,
 [mod-each-child~="on-focus-text-brown-800"] > [mod-child]:focus{
-	color: #4e342e;
+  color: #4e342e;
 }
 [mod-text~="brown-900"],
 [mod-style~="brown-900"],
@@ -195,7 +195,7 @@
 [mod-text~="on-focus-brown-900"]:focus,
 [mod-each-child~="on-hover-text-brown-900"] > [mod-child]:hover,
 [mod-each-child~="on-focus-text-brown-900"] > [mod-child]:focus{
-	color: #3e2723;
+  color: #3e2723;
 }
 
 /* -- brown border colors -- */
@@ -206,7 +206,7 @@
 [mod-border~="on-focus-brown"]:focus,
 [mod-each-child~="on-hover-border-brown"] > [mod-child]:hover,
 [mod-each-child~="on-focus-border-brown"] > [mod-child]:focus{
-	border-color: #795548;
+  border-color: #795548;
 }
 [mod-border~="brown-50"],
 [mod-each-child~="border-brown-50"] > [mod-child],
@@ -214,7 +214,7 @@
 [mod-border~="on-focus-brown-50"]:focus,
 [mod-each-child~="on-hover-border-brown-50"] > [mod-child]:hover,
 [mod-each-child~="on-focus-border-brown-50"] > [mod-child]:focus{
-	border-color: #efebe9;
+  border-color: #efebe9;
 }
 [mod-border~="brown-100"],
 [mod-each-child~="border-brown-100"] > [mod-child],
@@ -222,7 +222,7 @@
 [mod-border~="on-focus-brown-100"]:focus,
 [mod-each-child~="on-hover-border-brown-100"] > [mod-child]:hover,
 [mod-each-child~="on-focus-border-brown-100"] > [mod-child]:focus{
-	border-color: #d7ccc8;
+  border-color: #d7ccc8;
 }
 [mod-border~="brown-200"],
 [mod-each-child~="border-brown-200"] > [mod-child],
@@ -230,7 +230,7 @@
 [mod-border~="on-focus-brown-200"]:focus,
 [mod-each-child~="on-hover-border-brown-200"] > [mod-child]:hover,
 [mod-each-child~="on-focus-border-brown-200"] > [mod-child]:focus{
-	border-color: #bcaaa4;
+  border-color: #bcaaa4;
 }
 [mod-border~="brown-300"],
 [mod-each-child~="border-brown-300"] > [mod-child],
@@ -238,7 +238,7 @@
 [mod-border~="on-focus-brown-300"]:focus,
 [mod-each-child~="on-hover-border-brown-300"] > [mod-child]:hover,
 [mod-each-child~="on-focus-border-brown-300"] > [mod-child]:focus{
-	border-color: #a1887f;
+  border-color: #a1887f;
 }
 [mod-border~="brown-400"],
 [mod-each-child~="border-brown-400"] > [mod-child],
@@ -246,7 +246,7 @@
 [mod-border~="on-focus-brown-400"]:focus,
 [mod-each-child~="on-hover-border-brown-400"] > [mod-child]:hover,
 [mod-each-child~="on-focus-border-brown-400"] > [mod-child]:focus{
-	border-color: #8d6e63;
+  border-color: #8d6e63;
 }
 [mod-border~="brown-500"],
 [mod-each-child~="border-brown-500"] > [mod-child],
@@ -254,7 +254,7 @@
 [mod-border~="on-focus-brown-500"]:focus,
 [mod-each-child~="on-hover-border-brown-500"] > [mod-child]:hover,
 [mod-each-child~="on-focus-border-brown-500"] > [mod-child]:focus{
-	border-color: #795548;
+  border-color: #795548;
 }
 [mod-border~="brown-600"],
 [mod-each-child~="border-brown-600"] > [mod-child],
@@ -262,7 +262,7 @@
 [mod-border~="on-focus-brown-600"]:focus,
 [mod-each-child~="on-hover-border-brown-600"] > [mod-child]:hover,
 [mod-each-child~="on-focus-border-brown-600"] > [mod-child]:focus{
-	border-color: #6d4c41;
+  border-color: #6d4c41;
 }
 [mod-border~="brown-700"],
 [mod-each-child~="border-brown-700"] > [mod-child],
@@ -270,7 +270,7 @@
 [mod-border~="on-focus-brown-700"]:focus,
 [mod-each-child~="on-hover-border-brown-700"] > [mod-child]:hover,
 [mod-each-child~="on-focus-border-brown-700"] > [mod-child]:focus{
-	border-color: #5d4037;
+  border-color: #5d4037;
 }
 [mod-border~="brown-800"],
 [mod-each-child~="border-brown-800"] > [mod-child],
@@ -278,7 +278,7 @@
 [mod-border~="on-focus-brown-800"]:focus,
 [mod-each-child~="on-hover-border-brown-800"] > [mod-child]:hover,
 [mod-each-child~="on-focus-border-brown-800"] > [mod-child]:focus{
-	border-color: #4e342e;
+  border-color: #4e342e;
 }
 [mod-border~="brown-900"],
 [mod-each-child~="border-brown-900"] > [mod-child],
@@ -286,5 +286,5 @@
 [mod-border~="on-focus-brown-900"]:focus,
 [mod-each-child~="on-hover-border-brown-900"] > [mod-child]:hover,
 [mod-each-child~="on-focus-border-brown-900"] > [mod-child]:focus{
-	border-color: #3e2723;
+  border-color: #3e2723;
 }
