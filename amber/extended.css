@@ -130,7 +130,6 @@
 
 /* -- amber text colors -- */
 
-
 [mod-text~="amber"],
 [mod-style~="amber"],
 [mod-each-child~="text-amber"] > [mod-child],
